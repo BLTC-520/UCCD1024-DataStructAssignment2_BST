@@ -9,7 +9,7 @@ Hi, comrades! Me again helping with your assignment so that you don't have to pa
 
 1. **Just run your code and show it:** Lecturers don't give a care about your code; all they care about is "Is this code running well?" (by just demonstrating it).
 
-2. **Emphasize test cases:** They want test cases, especially case 8; it was empty initially, add some test cases to test the function. REMEMBER to include your test files during compilation to showcase your code's reliability.
+2. **Emphasize test cases:**REMEMBER to include your test files during compilation to showcase your code's reliability.
 
 3. **Avoid explaining code line by line:** Rather than going through each line, focus on explaining your code's overall structure and key elements.
 
