@@ -5,7 +5,7 @@ Hi, comrades! Me again helping with your assignment so that you don't have to pa
 **Notes:**
 - `student.txt` has 3 test cases provided, 2 are normal extra test cases, and 1 is without ID.
 
-## Tips for Presentations
+# Tips for Presentations
 
 1. **Just run your code and show it:** Lecturers don't give a care about your code; all they care about is "Is this code running well?" (by just demonstrating it).
 
