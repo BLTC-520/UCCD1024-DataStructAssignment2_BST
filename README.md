@@ -13,11 +13,5 @@ Hi, comrades! Me again helping with your assignment so that you don't have to pa
 
 3. **Avoid explaining code line by line:** Rather than going through each line, focus on explaining your code's overall structure and key elements.
 
-If you found these tips helpful, consider supporting me:
 
-- **Ethereum (ETH):** 0x8e4d966a1418f56ee94a4cbabcbcfcac90cdb279 (CEX)
-
-- **Solana:** BXHbNm3obMzyc96JfgRMfqLHqytFXA4g4Qu8SncyDyQ
-
-- **TNG WALLET:** 0149942098
 
