@@ -1,4 +1,4 @@
-# uccd1024-assignment2-BST-UTAR
+# UCCD1024-DataStructuresAssignment2_BST
 
 Hi, comrades! Me again helping with your assignment so that you don't have to pay people to do your assignments OR spend unwanted time to do it!
 
